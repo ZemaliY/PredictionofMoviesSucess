@@ -1,0 +1,5 @@
+Afin de lancer le projet, il est nécessaire d'avoir les librairies tkinter, keras, tensorflow,csv, numpy, math et pandas.
+Il faut ensuite lancer le fichier Menu.py qui appelle les 3 autres fichiers.
+Le fichier KNN.py contient une classe film qui nous permet de créer des instances pour chaque film ainsi que l'algorithme KNN et Naïve Bayes 2(avec moyenne et écart-type).
+Le fichier DeepLearningPTS.py contient l'agorithme de réseaux de neurones.
+Le fichier NaiveBayes2.py contient l'algorithme Naïve Bayes 1.
